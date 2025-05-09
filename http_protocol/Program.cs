@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 
 class Program
 {
-    static async Task Main(string[] args)
+    static async Task Main()
     {
         Console.Write("Enter the width of an image: ");
         string widthInput = Console.ReadLine();
